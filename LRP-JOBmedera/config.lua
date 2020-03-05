@@ -1,11 +1,10 @@
 Config = {}
 Config.Locale = 'en'
 
-
 --#############################################
 --### QUE CARRO PONER Y SPAWN DEL VEHICULO ###
 --#############################################
-Config.Vehiculo      = "ratloader"
+Config.Vehiculo = "ratloader"
 Config.VehiclespawnX = -512.38
 Config.VehiclespawnY = -969.49
 Config.VehiclespawnZ = 23.58
@@ -17,7 +16,7 @@ Config.VehiclespawnH = 76.23
 --#############################################
 -- 1 PASO 
 Config.BlipInicioTrabajo = "Maderero Inicio"  
-Config.BotonInicioTrabajo  = "Press ~INPUT_CONTEXT~ para iniciar el trabajo"
+Config.BotonInicioTrabajo = "Press ~INPUT_CONTEXT~ para iniciar el trabajo"
 
 Config.InicioTrabajoX = -510.03
 Config.InicioTrabajoY = -1001.58
@@ -28,8 +27,8 @@ Config.InicioTrabajoZ = 23.55
 --###### BLIP RECOLECCION MADERA ######
 --#############################################
 
-Config.blipdemandera  ="Madera" 
-Config.BotonRecoleccion =  "Press ~INPUT_CONTEXT~ para Cortar madera."
+Config.blipdemandera = "Madera" 
+Config.BotonRecoleccion = "Press ~INPUT_CONTEXT~ para Cortar madera."
 
 Config.BlipmaderaX = -564.0
 Config.BlipmaderaY = 5378.39
@@ -41,35 +40,35 @@ Config.BlipmaderaZ = 70.2
 --###### BLIP Y PUNTO DE PROCESAMIENTO ######
 --#############################################
 -- 2 PASO 
-Config.BlipProcesomiento= "Madera Corte"
+Config.BlipProcesomiento = "Madera Corte"
 Config.ProcesamientoLetra = " Cortando Madera ~g~ "
 Config.BotonProcesamiento = "Press ~INPUT_CONTEXT~ Para procesar madera "
 
-Config.ProcesamientoX     = -533.19
-Config.ProcesamientoY     = 5292.06
-Config.ProcesamientoZ     = 74.17
+Config.ProcesamientoX = -533.19
+Config.ProcesamientoY = 5292.06
+Config.ProcesamientoZ = 74.17
 ---#############################----
 
 --#############################################
 --###### BLIP Y 1 PUNTO DE FUNDICION DE ROPA ######
 --#############################################
 -- 3PASO 
-Config.BlipRefinado   = "Madera Empaquetar"
-Config.RefinadoLetra  = " Contando maderas empaquetadas ~g~ "
-Config.BotonRefinado  = "Press ~INPUT_CONTEXT~ para empaquetar madera "
+Config.BlipRefinado = "Madera Empaquetar"
+Config.RefinadoLetra = " Contando maderas empaquetadas ~g~ "
+Config.BotonRefinado = "Press ~INPUT_CONTEXT~ para empaquetar madera "
 
-Config.RefinadoX      = -508.48
-Config.RefinadoY      = 5257.21
-Config.RefinadoZ      = 80.62
+Config.RefinadoX = -508.48
+Config.RefinadoY = 5257.21
+Config.RefinadoZ = 80.62
 ---#############################----
 
 --#############################################
 --###### BLIP Y UN PUNTO DE VENTA DE JOYAS ######
 --#############################################
 -- 4 PASO 
-Config.BlipVenta   = "Venta Madera" 
+Config.BlipVenta = "Venta Madera" 
 Config.VentaLetraEnCirculo = "Presiona [E] Vender tus Tablas de madera"
-Config.BotonVenta ="Press ~INPUT_CONTEXT~ Para vende madera "
+Config.BotonVenta = "Press ~INPUT_CONTEXT~ Para vende madera "
 
 Config.VentaX = -507.97
 Config.VentaY = -941.3
@@ -106,8 +105,8 @@ Config.NpcVenta3H = 337.72
 --#############################################
 --###### PRECIO DE MINERALES ######
 --#############################################
-Config.MaterialNivel4 =  20
-Config.MaterialNivel3 =  15
-Config.MaterialNivel2 =  10
-Config.MaterialNivel1 =  7
+Config.MaterialNivel4 = 20
+Config.MaterialNivel3 = 15
+Config.MaterialNivel2 = 10
+Config.MaterialNivel1 = 7
 ---#############################----
